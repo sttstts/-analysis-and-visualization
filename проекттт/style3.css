@@ -1,0 +1,148 @@
+.frame-work {
+    background-color: #c8c8c8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+  }
+
+.frame-work .div {
+    background-color: #c8c8c8;
+    width: 1920px;
+    height: 919px;
+    position: relative;
+  }
+
+  .frame-work .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 150px;
+    top: 0;
+    left: 0;
+    background-color: #003153;
+  }
+
+.frame-work .image {
+    position: absolute;
+    width: 109px;
+    height: 109px;
+    top: 21px;
+    left: 1770px;
+    object-fit: cover;
+  }
+
+  .frame-work .logo {
+    position: absolute;
+    width: 176px;
+    height: 52px;
+    top: 49px;
+    left: 1575px;
+  }
+
+  .frame-work .overlap {
+    position: absolute;
+    width: 233px;
+    height: 100px;
+    top: 25px;
+    left: 28px;
+    border-radius: 25px;
+  }
+
+  .frame-work .rectangle {
+    width: 233px;
+    height: 100px;
+    background-color: #358ee0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 25px;
+  }
+
+  .frame-work .text-wrapper {
+    width: 135px;
+    top: 4px;
+    left: 49px;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .frame-work .div-wrapper {
+    position: absolute;
+    width: 233px;
+    height: 100px;
+    top: 25px;
+    left: 307px;
+    background-color: #358ee0;
+    border-radius: 25px;
+  }
+
+  .frame-work .text-wrapper-2 {
+    width: 176px;
+    top: 8px;
+    left: 28px;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .frame-work .overlap-2 {
+    position: absolute;
+    width: 233px;
+    height: 100px;
+    top: 25px;
+    left: 587px;
+    background-color: #358ee0;
+    border-radius: 25px;
+  }
+
+  .frame-work .text-wrapper-3 {
+    width: 139px;
+    top: 8px;
+    left: 47px;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  #wrapper{
+    width: 139px;
+    top: 8px;
+    left: 47px;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+  }
+
+  .frame-work .polygon {
+    position: absolute;
+    width: 1920px;
+    height: 769px;
+    top: 150px;
+    left: 0px;
+  }
+  
